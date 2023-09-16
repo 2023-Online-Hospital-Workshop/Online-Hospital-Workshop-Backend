@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EyoNOckQPa0XXSVBekeV0yxsmGVjBjCNPQQ4ZyeqVRg=",
+  "Source": "testwithouthttp",
+  "BasePath": "_content/testwithouthttp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
